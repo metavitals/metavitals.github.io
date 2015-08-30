@@ -35,8 +35,7 @@ Mobile:
 
 
 References:
-* Zaleski: Integrating Device Data into the Electronic Medical Record
-* https://books.google.com/books?id=nVuJBcb3djoC&pg=PA10&lpg=PA10&dq=physiological+vitals+signs+metadata&source=bl&ots=mEbMkOV3Jx&sig=tQOVmiEgCFMqTS9B4-vPROuz4aI&hl=en&sa=X&ved=0CDwQ6AEwBWoVChMIhtvl-qvRxwIVRHM-Ch2nMQ5Y#v=onepage&q=physiological%20vitals%20signs%20metadata&f=false
+* Zaleski: [Integrating Device Data into the Electronic Medical Record](https://books.google.com/books?id=nVuJBcb3djoC&pg=PA10&lpg=PA10&dq=physiological+vitals+signs+metadata&source=bl&ots=mEbMkOV3Jx&sig=tQOVmiEgCFMqTS9B4-vPROuz4aI&hl=en&sa=X&ved=0CDwQ6AEwBWoVChMIhtvl-qvRxwIVRHM-Ch2nMQ5Y#v=onepage&q=physiological%20vitals%20signs%20metadata&f=false)
 
 
 
