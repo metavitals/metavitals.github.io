@@ -6,14 +6,17 @@ MetaVitals
 References:
 
 https://en.wikipedia.org/wiki/Vital_signs
+
 1 Primary vital signs
 1.1 Temperature
 1.2 Pulse
 1.3 Respiratory rate
 1.4 Blood pressure
+
 2 Additional signs
 2.1 Fifth vital signs
 2.2 Sixth vital signs
+
 3 Variations by age
 4 Monitoring
 5 See also
