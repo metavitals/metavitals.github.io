@@ -1,0 +1,32 @@
+# Permalinks
+#
+permalink:           /blog/:title
+
+# Setup
+title:               VISTA Adaptive Maintenance 
+tagline:             Continuity of Veteran Care 
+url:                 http://vistaadaptivemaintenance.info
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# Custom vars
+github:
+  repo:              https://github.com/vistadataproject/vistaadaptivemaintenance.github.io
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "blog/page:num"
+excerpt_separator: "<!--more-->"
+
+
